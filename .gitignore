@@ -8,8 +8,8 @@
 *.ctxt
 
 # IDEA
-.idea
-.gigaide
+*.idea
+*.gigaide
 
 # Package Files #
 *.jar
